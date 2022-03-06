@@ -1,0 +1,2 @@
+# Flask_sc_project
+Its_Flask_Project_SAmple
